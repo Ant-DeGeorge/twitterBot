@@ -1,0 +1,22 @@
+{
+  "name": "twitbot",
+  "version": "1.0.0",
+  "description": "Attempting to make a twitterbot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ant-DeGeorge/twitterBot.git"
+  },
+  "author": "Anthony DeGeorge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ant-DeGeorge/twitterBot/issues"
+  },
+  "homepage": "https://github.com/Ant-DeGeorge/twitterBot#readme",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
